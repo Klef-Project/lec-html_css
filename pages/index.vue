@@ -1,6 +1,7 @@
 <template>
-  <Tutorial />
+  <IndexPageTemplate />
 </template>
+
 
 <script lang="ts">
 import Vue from 'vue'
